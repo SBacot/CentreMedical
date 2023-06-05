@@ -1,3 +1,4 @@
-body {
-    background-color: red;
+.navi{
+    display: flex !important;
+    justify-content: space-around !important;
 }
