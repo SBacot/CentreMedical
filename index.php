@@ -21,6 +21,6 @@ include 'views/_partials/_navbar.php';
 <body>
 
 
-
+<script src="assets/js/script.js"></script>
 </body>
 </html>
