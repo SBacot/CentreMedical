@@ -20,16 +20,17 @@ include 'views/_partials/_navbar.php';
 
 <main class="container mt-5">
         <div class="row mt-5">
-            <div class="col-4">
-                <div class="card text-dark border-primary-1 mb-3" style="max-width: 30rem; max-height: 50rem;">
-                <div class="card-header">Dr Maria Watson</div>
+            
+            <div class="col-4 ">
+                <div class="card text-dark border-primary mb-3 " style="max-width: 30rem; max-height: 50rem;">
+                <div class="card-header">Dr Meredith Grey</div>
                 <div class="card-body">
                     <div class="row">
-                        <div class="col-4">
-                            <img src="./assets/img/" alt="">
+                        <div class="col-5">
+                            <img src="./assets/img/Grey.png" class="border border-primary" style="max-width: 10rem" alt="">
                         </div>
-                        <div class="col-8">
-                            <h4 class="card-title">Primary card title</h4>
+                        <div class="col-7">
+                            <h4 class="card-title">médecin généraliste</h4>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
                            
@@ -37,7 +38,7 @@ include 'views/_partials/_navbar.php';
                     </div>
                 </div>
             </div>
-            <div class="col-4 card_color">
+            <div class="col-4 ">
                 <div class="card text-dark border-primary mb-3 " style="max-width: 30rem; max-height: 50rem;">
                 <div class="card-header">Dr Gregory House</div>
                 <div class="card-body">
@@ -54,15 +55,15 @@ include 'views/_partials/_navbar.php';
                     </div>
                 </div>
             </div>
-            <div class="col-4">
-                <div class="card text-dark border-primary mb-3" style="max-width: 30rem; max-height: 50rem;">
-                <div class="card-header">Dr Maria Watson</div>
+            <div class="col-4 ">
+                <div class="card text-dark border-primary mb-3 " style="max-width: 30rem; max-height: 50rem;">
+                <div class="card-header">Dr Mark Sloan</div>
                 <div class="card-body">
                     <div class="row">
-                        <div class="col-4">
-                            <img src="./assets/img/" alt="">
+                        <div class="col-5">
+                            <img src="./assets/img/Sloan.png" class="border border-primary" style="max-width: 10rem" alt="">
                         </div>
-                        <div class="col-8">
+                        <div class="col-7">
                             <h4 class="card-title">Primary card title</h4>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
@@ -71,6 +72,7 @@ include 'views/_partials/_navbar.php';
                     </div>
                 </div>
             </div>
+            
     </main>
 
 <script src="assets/js/script.js"></script>
