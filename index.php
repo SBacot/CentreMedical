@@ -30,7 +30,7 @@ include 'views/_partials/_navbar.php';
                             <img src="./assets/img/Grey.png" class="border border-primary" style="max-width: 10rem" alt="">
                         </div>
                         <div class="col-7">
-                            <h4 class="card-title">médecin généraliste</h4>
+                            <h4 class="card-title">Médecin généraliste</h4>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
                            
@@ -47,7 +47,7 @@ include 'views/_partials/_navbar.php';
                             <img src="./assets/img/Hugh-Laurie-2008.webp" class="border border-primary" style="max-width: 10rem" alt="">
                         </div>
                         <div class="col-7">
-                            <h4 class="card-title">Primary card title</h4>
+                            <h4 class="card-title">Médecin généraliste</h4>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
                            
@@ -64,7 +64,7 @@ include 'views/_partials/_navbar.php';
                             <img src="./assets/img/Sloan.png" class="border border-primary" style="max-width: 10rem" alt="">
                         </div>
                         <div class="col-7">
-                            <h4 class="card-title">Primary card title</h4>
+                            <h4 class="card-title">Médecin généraliste</h4>
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
                            
