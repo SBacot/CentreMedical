@@ -6,19 +6,19 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarColor01">
       <ul class="navbar-nav me-auto">
-        <li class="nav-item">
-          <a class="nav-link active" href="#">Accueil
+        <li class="nav-item ms-5">
+          <a class="nav-link active " href="#">Accueil
             <span class="visually-hidden">(current)</span>
           </a>
         </li>
-        <li class="nav-item">
+        <li class="nav-item ms-5">
           <a class="nav-link" href="#">Présentation</a>
         </li>
-        <li class="nav-item">
+        <li class="nav-item ms-5">
           <a class="nav-link" href="#">Infos Utiles</a>
         </li>
-        <li class="nav-item">
-        <button class="btn btn-secondary my-2 my-sm-0" type="submit">Se connecter / S'inscrire</button>
+        <li class="nav-item ms-5">
+        <button class="btn btn-secondary my-2 my-sm-0 ms-5" type="submit">Se connecter / S'inscrire</button>
         </li>
         
       </ul>

@@ -1,4 +1,3 @@
-.navi{
-    display: flex !important;
-    justify-content: space-around !important;
+body{
+    background-color: aquamarine;
 }
