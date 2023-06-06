@@ -1,7 +1,5 @@
 <?php
-
 include 'views/_partials/_navbar.php';
-
 ?>
 
 <!DOCTYPE html>
@@ -10,17 +8,71 @@ include 'views/_partials/_navbar.php';
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="assets/css/style.css">
+
     <link rel="stylesheet" href="assets/css/bootstrap.css">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/bootswatch/dist/minty/bootstrap.min.css">
-
+    <link rel="stylesheet" href="/assets/css/style.css">
     <title>Centre Médical de l'Étang</title>
 
 </head>
 <body>
 
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+<main class="container mt-5">
+        <div class="row mt-5">
+            <div class="col-4">
+                <div class="card text-dark border-primary-1 mb-3" style="max-width: 30rem; max-height: 50rem;">
+                <div class="card-header">Dr Maria Watson</div>
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-4">
+                            <img src="./assets/img/" alt="">
+                        </div>
+                        <div class="col-8">
+                            <h4 class="card-title">Primary card title</h4>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        </div>
+                           
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4 card_color">
+                <div class="card text-dark border-primary mb-3 " style="max-width: 30rem; max-height: 50rem;">
+                <div class="card-header">Dr Gregory House</div>
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-5">
+                            <img src="./assets/img/Hugh-Laurie-2008.webp" class="border border-primary" style="max-width: 10rem" alt="">
+                        </div>
+                        <div class="col-7">
+                            <h4 class="card-title">Primary card title</h4>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        </div>
+                           
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4">
+                <div class="card text-dark border-primary mb-3" style="max-width: 30rem; max-height: 50rem;">
+                <div class="card-header">Dr Maria Watson</div>
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-4">
+                            <img src="./assets/img/" alt="">
+                        </div>
+                        <div class="col-8">
+                            <h4 class="card-title">Primary card title</h4>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        </div>
+                           
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </main>
+
 <script src="assets/js/script.js"></script>
 </body>
 </html>
