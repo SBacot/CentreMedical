@@ -1,4 +1,4 @@
-
-.body{
-    background-color:#78c2ad45;
+.navi{
+    display: flex !important;
+    justify-content: space-around !important;
 }
